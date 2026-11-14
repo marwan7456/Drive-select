@@ -1,0 +1,151 @@
+{
+  "nextId": 11,
+  "records": [
+    {
+      "id": 1,
+      "customer": "Sara Ahmed",
+      "reg": "AB12 CDE",
+      "make": "Toyota",
+      "mileage": 42150,
+      "date": "2026-11-12",
+      "type": "Service",
+      "fault": "",
+      "work": [
+        "Oil change"
+      ],
+      "notes": "",
+      "createdAt": "2026-11-14T19:36:47.574Z"
+    },
+    {
+      "id": 2,
+      "customer": "Omar Khalil",
+      "reg": "KX19 TRP",
+      "make": "BMW",
+      "mileage": 68300,
+      "date": "2026-11-09",
+      "type": "Repair",
+      "fault": "Squealing brakes at low speed.",
+      "work": [
+        "Brakes"
+      ],
+      "notes": "",
+      "createdAt": "2026-11-14T19:36:47.575Z"
+    },
+    {
+      "id": 3,
+      "customer": "Mona Hassan",
+      "reg": "LM70 QWE",
+      "make": "Kia",
+      "mileage": 15890,
+      "date": "2026-11-05",
+      "type": "MOT",
+      "fault": "",
+      "work": [],
+      "notes": "",
+      "createdAt": "2026-11-14T19:36:47.575Z"
+    },
+    {
+      "id": 4,
+      "customer": "Youssef Ali",
+      "reg": "GH65 ZXC",
+      "make": "Ford",
+      "mileage": 98710,
+      "date": "2026-10-31",
+      "type": "Repair",
+      "fault": "Battery not holding charge.",
+      "work": [
+        "Battery"
+      ],
+      "notes": "",
+      "createdAt": "2026-11-14T19:36:47.575Z"
+    },
+    {
+      "id": 5,
+      "customer": "Laila Farouk",
+      "reg": "RT21 BNM",
+      "make": "Honda",
+      "mileage": 30420,
+      "date": "2026-10-25",
+      "type": "Service",
+      "fault": "",
+      "work": [
+        "Oil change",
+        "Tyres"
+      ],
+      "notes": "",
+      "createdAt": "2026-11-14T19:36:47.575Z"
+    },
+    {
+      "id": 6,
+      "customer": "Karim Nabil",
+      "reg": "PQ18 HJK",
+      "make": "Nissan",
+      "mileage": 77215,
+      "date": "2026-10-18",
+      "type": "MOT",
+      "fault": "",
+      "work": [],
+      "notes": "",
+      "createdAt": "2026-11-14T19:36:47.575Z"
+    },
+    {
+      "id": 7,
+      "customer": "Nour Samir",
+      "reg": "DF22 VBN",
+      "make": "Toyota",
+      "mileage": 8800,
+      "date": "2026-10-12",
+      "type": "Service",
+      "fault": "",
+      "work": [
+        "Oil change"
+      ],
+      "notes": "",
+      "createdAt": "2026-11-14T19:36:47.575Z"
+    },
+    {
+      "id": 8,
+      "customer": "Hany Adel",
+      "reg": "WS17 UIO",
+      "make": "Other",
+      "mileage": 120500,
+      "date": "2026-10-04",
+      "type": "Repair",
+      "fault": "Front left tyre puncture.",
+      "work": [
+        "Tyres"
+      ],
+      "notes": "",
+      "createdAt": "2026-11-14T19:36:47.575Z"
+    },
+    {
+      "id": 9,
+      "customer": "Dina Mostafa",
+      "reg": "YU20 ERT",
+      "make": "BMW",
+      "mileage": 54600,
+      "date": "2026-09-27",
+      "type": "Service",
+      "fault": "",
+      "work": [
+        "Oil change",
+        "Brakes"
+      ],
+      "notes": "",
+      "createdAt": "2026-11-14T19:36:47.575Z"
+    },
+    {
+      "id": 10,
+      "customer": "Tamer Fathy",
+      "reg": "ZX16 LKJ",
+      "make": "Ford",
+      "mileage": 143900,
+      "date": "2026-09-19",
+      "type": "MOT",
+      "fault": "",
+      "work": [],
+      "notes": "",
+      "createdAt": "2026-11-14T19:36:47.575Z"
+    }
+  ]
+}
